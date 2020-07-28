@@ -1,0 +1,5 @@
+npm install gitignore -g
+
+gitignore Node
+
+# Com isso o arquivo será criado
