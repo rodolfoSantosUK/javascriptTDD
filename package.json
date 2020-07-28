@@ -1,0 +1,24 @@
+{
+  "name": "javascripttdd",
+  "version": "1.0.0",
+  "description": "Biblioteca do curso javascript com tdd ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rodolfoSantosUK/javascriptTDD.git"
+  },
+  "keywords": [
+    "js",
+    "tdd",
+    "library"
+  ],
+  "author": "Rodolfo Santos <santoseuro2018@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rodolfoSantosUK/javascriptTDD/issues"
+  },
+  "homepage": "https://github.com/rodolfoSantosUK/javascriptTDD#readme"
+}
