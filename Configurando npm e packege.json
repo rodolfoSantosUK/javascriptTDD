@@ -1,5 +1,5 @@
 npm set init-author-name "Rodolfo Santos"
 npm set init-author-email "santoseuro2018@gmail.com"
-npm set init-author-url "rsantos.com.br"
+npm set init-author-url "http://rsantos.com.br"
 
 npm init

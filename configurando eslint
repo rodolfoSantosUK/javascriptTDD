@@ -1,0 +1,6 @@
+
+npm install eslint@4.0.0 --save-dev
+
+./node_modules/.bin/eslint --init
+
+./node_modules/.bin/eslint src/*.js
